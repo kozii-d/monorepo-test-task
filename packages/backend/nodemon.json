@@ -1,0 +1,6 @@
+{
+  "watch": ["src/", ".env"],
+    "ext": "ts,js,graphql",
+    "ignore": ["node_modules"],
+    "exec": "ts-node ./src/index.ts"
+}

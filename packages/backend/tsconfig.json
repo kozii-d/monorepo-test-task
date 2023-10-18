@@ -1,0 +1,21 @@
+{
+  "ts-node": {
+    "files": true,
+  },
+  "compilerOptions": {
+    "baseUrl": ".",
+    "outDir": "./dist",
+    "rootDir": "./src",
+    "target": "es2021",
+    "experimentalDecorators": true,
+    "noImplicitAny": true,
+    "module": "CommonJS",
+    "strict": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true
+  },
+  "include": [
+    "./src/**/*.ts",
+  ],
+  "exclude": ["node_modules"],
+}

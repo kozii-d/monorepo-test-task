@@ -1,0 +1,1 @@
+type ExpressRequest = import("express").Request & { decodedToken?: unknown };

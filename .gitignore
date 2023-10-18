@@ -1,0 +1,8 @@
+node_modules
+dist
+.idea
+
+packages/backend/.env
+.env.js
+.DS_STORE
+**/.DS_Store
