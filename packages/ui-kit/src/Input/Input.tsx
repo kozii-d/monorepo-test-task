@@ -1,4 +1,4 @@
-import {ChangeEvent, HTMLInputTypeAttribute, InputHTMLAttributes, memo, useCallback} from "react";
+import { ChangeEvent, HTMLInputTypeAttribute, InputHTMLAttributes, memo, useCallback } from "react";
 
 import cls from "./Input.module.scss";
 
